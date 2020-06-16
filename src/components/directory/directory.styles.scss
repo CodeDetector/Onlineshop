@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
+* {
+  font-family: "Montserrat", sans-serif;
+}
+.directory-menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+  //   padding: 0;
+  }
